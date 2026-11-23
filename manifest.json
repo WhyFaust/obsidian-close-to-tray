@@ -1,9 +1,9 @@
 {
   "id": "faust-close-to-tray",
   "name": "Keep Open in Tray",
-  "version": "0.1.1",
-  "minAppVersion": "1.4.0",
-  "description": "Hide the vault in the system tray when closing the main window.",
+  "version": "0.2.0",
+  "minAppVersion": "1.15.1",
+  "description": "Hide the vault to the system tray on GNOME and bring it back from the panel menu.",
   "author": "Faust",
   "authorUrl": "https://github.com/WhyFaust",
   "isDesktopOnly": true
